@@ -1,0 +1,56 @@
+body{
+    width:100%;
+}
+.one{
+    box-sizing: border-box;
+    width:100%;
+    height:125px;
+    background-color: lightgray;
+    color:lightgray;
+}
+.two{
+    box-sizing: border-box;
+    width:100%;
+    height:250px;
+    text-align: center;
+    padding-left:100px;
+    padding-right:100px;
+    padding-top:75px;
+    font-size: larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.three{
+    box-sizing: border-box;
+    width:100%;
+    height:125px;
+    background-color: rgb(57, 124, 226);
+    color:rgb(57, 124, 226);
+}
+.four{
+    box-sizing: border-box;
+    width:100%;
+    height:125px;
+    background-color: rgb(115, 212, 208);
+    color:rgb(115, 212, 208);
+}
+.five{
+    box-sizing: border-box;
+    width:100%;
+    height:125px;
+    background-color: rgb(208, 241, 131);
+    color: rgb(208, 241, 131);
+}
+.six{
+    box-sizing: border-box;
+    width:100%;
+    height:125px;
+    background-color: rgb(255, 251, 31);
+    color:rgb(255, 251, 31);
+}
+.inner{
+    box-sizing: border-box;
+    background-color: rgb(57, 124, 226);
+    width:90px;
+    height:90px;
+    margin-left: 15px;
+}

@@ -1,0 +1,45 @@
+
+h1{
+background-color:#636363;
+border:0px;
+padding: 0px;
+margin:0px;
+position: absolute;
+Top: 0px;
+Left: 0px;
+width:800px;
+height:175px;
+}
+h2{
+background-color: lightgray;
+border:0px;
+padding: 0px;
+margin:0px;
+position: absolute;
+Top: 175px;
+Left: 0px;
+width:150px;
+height:600px;
+}
+h3{
+background-color: lightgray;
+border:0px;
+padding: 0px;
+margin:0px;
+position: absolute;
+Top: 175px;
+Left: 650px;
+width:150px;
+height:600px;
+}
+h4{
+background-color: black;
+border:0px;
+padding: 0px;
+margin:0px;
+position: absolute;
+Top: 675px;
+Left: 150px;
+width:500px;
+height:100px;
+}
